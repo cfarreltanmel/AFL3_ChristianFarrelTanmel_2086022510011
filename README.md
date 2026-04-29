@@ -1,0 +1,3 @@
+Projek ini adalah projek membuat portofolio menggunakan html, css, bootstrap, dan javascript
+Jadi projek ini terdiri dari 1 file CSS dan JavaScript serta 6 file html yang dimana 1 file html merepresentasikan 1 halaman web.
+6 file html tersebut merepresentasikan Home page (Index.html), About page (About.html), Skills page (Skills.html), Projects page (Projects.html), Gallery page (Gallery.html) dan Contact page (Contact.html).
